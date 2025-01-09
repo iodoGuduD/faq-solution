@@ -23,9 +23,14 @@ main {
     display: flex;
     justify-content: center;
     background-color: var(--lightpink);
-    background-image: url(images/background-pattern-mobile.svg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
     text-align: left;
     font-family: 'Work Sans', sans-serif;
+}
+
+.box-title {
+    display: inline-block;
 }
 
 .content {
