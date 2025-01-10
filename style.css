@@ -64,6 +64,10 @@ p {
     font-weight: 400;
 }
 
+#first_p, #second_p, #third_p, #fourth_p {
+    display: none;
+}
+
 footer {
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;

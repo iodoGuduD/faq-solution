@@ -1,3 +1,8 @@
 main {
     background-image: url(images/background-pattern-desktop.svg);
+    padding: 10% 0;
+}
+
+.content {
+    width: 700px;
 }
