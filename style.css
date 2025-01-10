@@ -35,7 +35,7 @@ main {
     margin: 0 0 16px 0;
 }
 
-.star, .title {
+h1, h2, img {
     display: inline-block;
 }
 
@@ -58,10 +58,15 @@ h1 {
 
 h2 {
     font-weight: 600;
+    font-size: 16px;
 }
 
 p {
     font-weight: 400;
+}
+
+section {
+    padding: 0 0 16px 0;
 }
 
 #first_p, #second_p, #third_p, #fourth_p {

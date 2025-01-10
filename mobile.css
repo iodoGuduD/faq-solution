@@ -2,3 +2,12 @@ main {
     background-image: url(images/background-pattern-mobile.svg);
     padding: 45% 0;
 }
+
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    width: 75%;
+}
